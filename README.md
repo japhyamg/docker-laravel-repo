@@ -1,7 +1,4 @@
-# Docker + Jenkins
-## Requirements
+# Docker + Laravel
 
-- docker-compose version 1.25.4, build 8d51620a
-- Docker version 19.03.5, build 633a0ea
-
-## Install Guide
+A docker image with all the requirements and laravel for quick setup
+gotten from https://github.com/aschmelyun/docker-compose-laravel
